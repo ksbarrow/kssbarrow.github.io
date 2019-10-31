@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Jessie Muir
+title: Kirk S. S. Barrow
 
 # Short description of your site
-description: Personal site. 
+description: Research and Physics Musings of Kirk Barrow
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,9 +21,8 @@ description: Personal site.
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  # Publications: "pubs"
-  Travel: "travel"
-  Cartoons: "cartoons"	
+  CV: "CV"
+  Publications: "pubs"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -52,7 +51,7 @@ footer-link-col: "#b8b6b6" # "#404040"
 
 navbar-img: "/img/hubble-deep-field-wallpaper.jpg"
 footer-img: "/img/hubble-deep-field-wallpaper.jpg"
-# page-img: 
+# page-img:
 
 # --- Footer options --- #
 
@@ -67,10 +66,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "jlmuir@stanford.edu"
-  github: jessmuir
-  twitter: jlynnmuir
-  inspire: Jessica.Muir.1
+  email: "kssbarrow@stanford.edu"
+  github: ksbarrow
   orchid: 0000-0002-7579-770X
 #  reddit: yourname
 #  linkedin: daattali
@@ -86,14 +83,10 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jessiemuir.com"  # 
+#url-pretty: "jessiemuir.com"  #
 
 # --- Web Statistics Section --- #
 
@@ -160,8 +153,6 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
-paginate_path: "/cartoons/page:num/"
 
 kramdown:
   input: GFM
