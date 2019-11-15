@@ -1,36 +1,22 @@
 ---
 layout: page
-title: Jessie Muir 
-subtitle: Porat Fellow at Stanford. Cosmology theory and data analysis to learn about fundamental physics. 
+title: Kirk Barrow
+subtitle: Porat Postdoctoral Fellow at Stanford University and SLAC National Accelerator Laboratory (2018-2021)
 use-site-title: true
-share-img: http://www.jessiemuir.com/img/jessie-headshot-15.jpg
+#share-img: http://www.jessiemuir.com/img/jessie-headshot-15.jpg
 ---
-![](/img/jessie-headshot-15.jpg "Portrait of Jessie smiling in front of some bushes, taken by Jenn Chen")
 
-I'm a Porat Fellow at the [Kavli Institute for Particle Astrophysics and Cosmology (KIPAC)](https://kipac.stanford.edu/) at Stanford. I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone.  I'm part of [Risa Weschler](https://www.risawechsler.com/)'s [galaxy formation and cosmology group](https://www.risawechsler.com/gfc-group.html), and do research as part of the [Dark Energy Survey](https://www.darkenergysurvey.org/) collaboration. 
+## Biography
 
-I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate degree from Michigan State University, where I did an astrophysics undergrad thesis supervised by [Mark Voit](https://web.pa.msu.edu/people/voit/Mark.html). I spent two years at the University of Cambridge as a [Marshall Scholar](http://www.marshallscholarship.org/) where I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) and then spent a year working on modified gravity research with [Anne-Christine Davis](cam.ac.uk/people/a.c.davis/).  I got my PhD at University of Michigan's [Department of Physics](https://lsa.umich.edu/physics), where my advisor was [Dragan Huterer](http://www-personal.umich.edu/~huterer/).
+I have been a Porat Postdoctoral Fellow at the Kavli Institute for Particle Astrophysics and Cosmology at Stanford since September 2018. I am mostly interested in modeling galaxy and star formation numerically as well as producing predictions and mock observations of the early Universe. I am also interested in orbital mechanics modeling for spacecraft missions in our solar system.
 
-The headshot above was taken by [Jenn Chen](https://jennchen.com). 
+See my [CV](KSSBarrow-Public-CV-November 2019) for more about my academic history and a summary of some of my projects.
 
----
-## CV: [linked here](http://www.jessiemuir.com/Muir-CV-oct-2019.pdf)
-Contact me for a more up-to-date version. 
+I grew up in various places in the US and in Jamaica, moving 13 times before graduating high school. I stayed put in Georgia for college and Atlanta became my adopted home town of 15 years.
 
----
-## Links & contact
-
-* Email: jlmuir ~at~ stanford ~dot~ edu
-* INSPIRE: [Jessica.Muir.1](https://inspirehep.net/author/profile/Jessica.Muir.1)
-* ORCHID ID: [0000-0002-7579-770X](http://orcid.org/0000-0002-7579-770X)
-* github: [jessmuir](https://github.com/jessmuir)
-* twitter: [jlynnmuir](https://twitter.com/jlynnmuir)
-
+As a new resident of the Bay Area, I have fallen in love with the outdoors! You'll find me biking, hiking, surfing, and climbing in my free time.
 
 ---
 ## Education
 
-* PhD in Physics - University of Michigan, 2018.
-* MPhil in Astronomy - Gonville and Caius College, University of Cambridge, 2013.
-* MASt in Applied Mathematics (Part III) - Gonville and Caius College, University of Cambridge, 2012. 
-* B.S. Physics & B.S. Astrophysics - Michigan State University, 2010.
+* PhD in Physics, MS in Aerospace Engineering, BS in Aerospace Engineering, Georgia Institute of Technology in Atlanta, Georgia, USA

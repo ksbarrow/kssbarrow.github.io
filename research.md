@@ -1,27 +1,45 @@
 ---
 layout: page
-title: Research
+title: Research and CV
 use-site-title: true
 ---
-A list of my publications can be found on [my Inspire page](https://inspirehep.net/author/profile/Jessica.Muir.1).
-![](/cartoons/images/Cosmology_Tube6.all.jpg)
 
-## Current & recent projects
+See my [CV](KSSBarrow-Public-CV-November 2019) for a list of publications.
 
-* **DES Year 3 extended cosmological models** - The Dark Energy Survey (DES) is an ongoing project to map 1/8th of the sky, and to use the information gathered from that survey to place constraints on, among other things, dark energy properties. With [Agnes Ferte (JPL)](https://science.jpl.nasa.gov/people/Ferte/), I am coleading the DES analysis team focused on constraining extended (beyond wCDM) models with galaxy clustering and weak lensing data gathered during DES' first three years. We're focused on several phenomenological parameterizations of physics beyond the cosmological standard model, including time-dependent dark energy, sterile neutrinos, modified gravity, non-zero curvature, and non-parametric measurement of large scale structure growth. 
 
-* **Blinding for multi-probe cosmological analyses** - As cosmological experiments grow increasingly precise, blind analyses are an important tool to ensure the results are not influenced experimenters' bias. A successful blinding method must hide the results of an analysis  while preserving the properties of the data such that necessary validation tests can still be performed. I've worked on developing and testing a simple and effective method for blinding combined analyses of multiple  cosmological probes. This method will be used for the  DES Year 3 combined galaxy clustering and weak lensing analysis, and could be potentially applicable to both future surveys and other types of data. 
+## Brief Overview of Completed Research Projects
 
-* **Growth-geometry split analysis of DES data**  - Many models of modified gravity can produce the same expansion history as LCDM, the standard cosmological model of a cosmological constant + cold dark matter + general relativity, but will differ in their predictions for structure growth. The idea of the grow-geometry split analysis is to separately constrain the LCDM parameters using probes of expansion and structure growth, and then to use the comparison of those constraints as a consistency test of LCDM. I'm currently implementing and testing a pipeline to run this kind of analysis on the Year-1 data for DES. I'm also generally interested in using galaxy survey data to test for modified gravity via phenomenological parameterizations of deviations from general relativity. 
 
-* **CMB anomaly covariances** - For the most part, data from the CMB have been found to be in remarkable agreement with the predictions of LCDM. However, there are a handful of features on very large angular scales which are statistically unlikely in LCDM, which have been the subject of much study. [This paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.023521) describes a project I did using simulated CMB skies to characterize the extent to which these various anomalies are independent. 
+* **Nebular Emission Lines**
 
-* **ISW signal reconstruction** - The integrated Sachs-Wolfe (ISW) effect is a result of the fact that the energy of cosmic microwave background (CMB) photons gets modulated when pass through gravitational potential wells associated with large scale structure (LSS) on their way from the surface of last scattering to us. This energy modulation contributes to CMB temperature anisotropies at large angles. One can use theoretical cross correlations and maps of LSS tracers to try to reconstruct a map of the ISW signal. In two papers ([here](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.043503) and [here](https://arxiv.org/abs/1709.08661)), I explored how different survey properties and systematics affecting the input galaxy maps impacted the accuracy of this kind of ISW signal reconstruction.
+![](/img/plotlines3_0.png)
 
-* **Astrophysical black holes and modified gravity** - For a master's project,  I did an exploratory study of how the infall of objects into black holes would be affected by a class of extensions to general relativity in which a new gravitational field interacts with matter in the black hole's accretion disk. The project is described in [this paper](https://iopscience.iop.org/article/10.1088/1475-7516/2014/08/033).
+Stars generally form from giant, gravitationally collapsing clouds of dense interstellar gas. During their collapse, these clouds fragment to form stars with various masses within a single star cluster. The most massive stars of these stars (> 20 solar masses) burn the brightest and exhaust themselves much more quickly  (< 20 Myr) than the less massive stars in the cluster, with luminosities up to millions of times as bright as our sun. Due to the super-luminous stars that shine during the tumultuous early life of a star cluster, the chemical constituents of the birth cloud and the surrounding interstellar medium are photo-ionized and excited.  
 
-## Other activities
+Observationally, these young star cluster regions appear as hazy, colorful “nebulae” with tints of blue, green, or red. These colors are each associated with a specific ionization state of an atom and are extremely sensitive to both the geometry as well as the details of the radiation environment throughout the nebulae  and any slight change can drastically affect their appearance. Thus, nebular emission is notoriously hard to reproduce in analytical models or simulations.
 
-Though I can't really claim it as a project, I was lucky enough to be on observing shift during the tail end of the DES follow-up observations of the binary neutron star collision detected by LIGO in August 2017 (see telescope photo above). Data I took played a small role in [these](http://iopscience.iop.org/article/10.3847/2041-8213/aa9059/meta;jsessionid=12CB5314CAB277922B613D244472B04A.c3.iopscience.cld.iop.org) [three](https://www.nature.com/nature/journal/vaap/ncurrent/full/nature24471.html) [papers](http://iopscience.iop.org/article/10.3847/2041-8213/aa8fc7/meta).   
+I worked on advancing numerical models and produce robust, time-dependent radiative transfer simulations of emission lines in high-redshift (4 < z < 6) galaxies. In my methodology paper, I explore the source of blue He II emission and explain why observed galaxies have much higher ratios of He II to H-beta emission than models predict. Read more [here](https://arxiv.org/abs/1911.02023)
+
+* **Direct Collapse Black Holes**
+
+![](/img/Figure4.pdf)
+
+In contrast to the formation of star clusters from collapsing gas clouds, simulations have shown that, under the right conditions, collapsing gas does not fragment and instead keeps collapsing until it forms a single, supermassive star. This star then quickly collapses under its gravity into massive black hole; a mechanism called the “direct-collapse black holes” scenario.
+
+Astronomers have observed evidence of super massive black holes as early as a few hundred million years after the big bang (z =7.085), but it is not clear how black holes with billions of times the mass of our sun grew so quickly. We studied the observational signatures of the formation of a direct-collapse black hole scenario and found that it might looks differently through a telescope than anyone expected before. Read more from a paper I led [here](https://doi.org/10.1038/s41550-018-0569-y) as well as a followup led by Aycin Aycutalp [here](https://arxiv.org/abs/1910.08554)
+
+* **Reionization Era Galaxies**
+
+![](/img/HaloA4.png)
+
+The first galaxies in the universe are fast-merging and irregularly shaped, leading to interesting dynamics and characteristics unlike what we see in the local Universe. Using a state-of-the art hydrodynamic simulations and a new Monte Carlo radiative transfer pipeline, we studied the observational signatures of early galaxies and the first stars and found several statistical trends for the first time. Read more in our papers [here](https://academic.oup.com/mnras/article/469/4/4863/3828091) and [here](https://academic.oup.com/mnras/article/474/2/2617/4638550).
+
+* **Aerospace Engineering**
+
+Spacecraft orbital energies can be boosted or dispersed by three body interactions with massive bodies like planets and moons. However, in many body systems, like within the Saturn system or amongst the inner planets, optimizing a spacecraft trajectory to minimize the need for fuel is an open-ended and highly non-linear problem. With Marcus Holzinger, I developed an optimization scheme for Mars-Earth cycler trajectories that take advantage of Venus transits to make quicker transits to and from Mars. You can see more in my conference paper [here](http://www.ssdl.gatech.edu/sites/default/files/papers/conferencePapers/AAS-17-zzz.pdf)
+
+With Nathan Strange and NASA Jet Propulsion Laboratory, I worked on low-thrust trajectories that leveraged Titan, Rhea, Dione, Tethys, and Enceladus to seek a path deep into Saturn’s gravity well for a future Enceladus lander concept.
+
+
 
 ![](/img/JessieMuir_CMBball.jpg)
