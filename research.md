@@ -12,7 +12,7 @@ See my [CV](KSSBarrow-Public-CV-November 2019) for a list of publications.
 
 * **Nebular Emission Lines**
 
-![](/img/plotlines3_0.png)
+![](/img/plotlines3_rat_0.png)
 
 Stars generally form from giant, gravitationally collapsing clouds of dense interstellar gas. During their collapse, these clouds fragment to form stars with various masses within a single star cluster. The most massive stars of these stars (> 20 solar masses) burn the brightest and exhaust themselves much more quickly  (< 20 Myr) than the less massive stars in the cluster, with luminosities up to millions of times as bright as our sun. Due to the super-luminous stars that shine during the tumultuous early life of a star cluster, the chemical constituents of the birth cloud and the surrounding interstellar medium are photo-ionized and excited.  
 
