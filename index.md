@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kirk Barrow
-subtitle: Porat Postdoctoral Fellow at Stanford University and SLAC National Accelerator Laboratory (2018-2021)
+subtitle: Porat Postdoctoral Fellow at Stanford University and SLAC National Accelerator Laboratory (2018-)
 use-site-title: true
 ---
 
