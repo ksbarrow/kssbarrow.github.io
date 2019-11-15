@@ -18,7 +18,7 @@ Stars generally form from giant, gravitationally collapsing clouds of dense inte
 
 Observationally, these young star cluster regions appear as hazy, colorful “nebulae” with tints of blue, green, or red. These colors are each associated with a specific ionization state of an atom and are extremely sensitive to both the geometry as well as the details of the radiation environment throughout the nebulae  and any slight change can drastically affect their appearance. Thus, nebular emission is notoriously hard to reproduce in analytical models or simulations.
 
-I worked on advancing numerical models and produce robust, time-dependent radiative transfer simulations of emission lines in high-redshift (4 < z < 6) galaxies. In my methodology paper, I explore the source of blue He II emission and explain why observed galaxies have much higher ratios of He II to H-beta emission than models predict. Read more [here](https://arxiv.org/abs/1911.02023)
+I worked on advancing numerical models and produce robust, time-dependent radiative transfer simulations of emission lines in high-redshift (4 < z < 6) galaxies. In my methodology paper, I explore the source of blue He II emission and explain why observed galaxies have much higher ratios of He II to H-beta emission than models predict. Read more [here](https://arxiv.org/abs/1911.02023).
 
 * **Direct Collapse Black Holes**
 
@@ -26,7 +26,7 @@ I worked on advancing numerical models and produce robust, time-dependent radiat
 
 In contrast to the formation of star clusters from collapsing gas clouds, simulations have shown that, under the right conditions, collapsing gas does not fragment and instead keeps collapsing until it forms a single, supermassive star. This star then quickly collapses under its gravity into massive black hole; a mechanism called the “direct-collapse black holes” scenario.
 
-Astronomers have observed evidence of super massive black holes as early as a few hundred million years after the big bang (z =7.085), but it is not clear how black holes with billions of times the mass of our sun grew so quickly. We studied the observational signatures of the formation of a direct-collapse black hole scenario and found that it might looks differently through a telescope than anyone expected before. Read more from a paper I led [here](https://doi.org/10.1038/s41550-018-0569-y) as well as a followup led by Aycin Aycutalp [here](https://arxiv.org/abs/1910.08554)
+Astronomers have observed evidence of super massive black holes as early as a few hundred million years after the big bang (z =7.085), but it is not clear how black holes with billions of times the mass of our sun grew so quickly. We studied the observational signatures of the formation of a direct-collapse black hole scenario and found that it might looks differently through a telescope than anyone expected before. Read more from a paper I led [here](https://doi.org/10.1038/s41550-018-0569-y) as well as a followup led by Aycin Aycutalp [here](https://arxiv.org/abs/1910.08554).
 
 * **Reionization Era Galaxies**
 
@@ -36,10 +36,6 @@ The first galaxies in the universe are fast-merging and irregularly shaped, lead
 
 * **Aerospace Engineering**
 
-Spacecraft orbital energies can be boosted or dispersed by three body interactions with massive bodies like planets and moons. However, in many body systems, like within the Saturn system or amongst the inner planets, optimizing a spacecraft trajectory to minimize the need for fuel is an open-ended and highly non-linear problem. With Marcus Holzinger, I developed an optimization scheme for Mars-Earth cycler trajectories that take advantage of Venus transits to make quicker transits to and from Mars. You can see more in my conference paper [here](http://www.ssdl.gatech.edu/sites/default/files/papers/conferencePapers/AAS-17-zzz.pdf)
+Spacecraft orbital energies can be boosted or dispersed by three body interactions with massive bodies like planets and moons. However, in many body systems, like within the Saturn system or amongst the inner planets, optimizing a spacecraft trajectory to minimize the need for fuel is an open-ended and highly non-linear problem. With Marcus Holzinger, I developed an optimization scheme for Mars-Earth cycler trajectories that take advantage of Venus transits to make quicker transits to and from Mars. You can see more in my conference paper [here](http://www.ssdl.gatech.edu/sites/default/files/papers/conferencePapers/AAS-17-zzz.pdf).
 
 With Nathan Strange and NASA Jet Propulsion Laboratory, I worked on low-thrust trajectories that leveraged Titan, Rhea, Dione, Tethys, and Enceladus to seek a path deep into Saturn’s gravity well for a future Enceladus lander concept.
-
-
-
-![](/img/JessieMuir_CMBball.jpg)
