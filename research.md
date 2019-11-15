@@ -22,7 +22,7 @@ I worked on advancing numerical models and produce robust, time-dependent radiat
 
 * **Direct Collapse Black Holes**
 
-![](/img/Figure4.pdf)
+![](/img/Figure4.png)
 
 In contrast to the formation of star clusters from collapsing gas clouds, simulations have shown that, under the right conditions, collapsing gas does not fragment and instead keeps collapsing until it forms a single, supermassive star. This star then quickly collapses under its gravity into massive black hole; a mechanism called the “direct-collapse black holes” scenario.
 
