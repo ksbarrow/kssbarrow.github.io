@@ -18,7 +18,7 @@ Stars generally form from giant, gravitationally collapsing clouds of dense inte
 
 Observationally, these young star cluster regions appear as hazy, colorful “nebulae” with tints of blue, green, or red. These colors are each associated with a specific ionization state of an atom and are extremely sensitive to both the geometry as well as the details of the radiation environment throughout the nebulae  and any slight change can drastically affect their appearance. Thus, nebular emission is notoriously hard to reproduce in analytical models or simulations.
 
-I worked on advancing numerical models and produce robust, time-dependent radiative transfer simulations of emission lines in high-redshift (4 < z < 6) galaxies. In my methodology paper, I explore the source of blue He II emission and explain why observed galaxies have much higher ratios of He II to H-beta emission than models predict. Read more [here](https://arxiv.org/abs/1911.02023).
+I worked on advancing numerical models and produce robust, time-dependent radiative transfer simulations of emission lines in high-redshift (4 < z < 6) galaxies. In my methodology paper, I explore the source of blue He II emission and explain why observed galaxies have much higher ratios of He II to H-beta emission than models predict. These ratios turned out to be very sensitive to the time intervals between episodes of star formation as well as the harness of the spectrum, but were mostly reproducible in cosmological simulations. Read more [here](https://arxiv.org/abs/1911.02023).
 
 * **Direct Collapse Black Holes**
 
