@@ -15,7 +15,8 @@ See my [CV](KSSBarrow-Public-CV-October 2020.pdf) for a list of publications.
 
 ![](/img/fourplot_0_407_3.png)
 
-The escape fraction of ionizing radiation is a measure of how many of a star's ionizing photons make it to the edge of the galaxy. These photons are easily absorbed by neutral gas so they are only visible to astronomers when galaxies are host to a lot of young hot stars that overwhelm and heat the neutral gas.
+The escape fraction of ionizing radiation is a measure of how many of a star's ionizing photons make it to the edge of the galaxy. These photons are easily absorbed by cold gas so they are only visible to astronomers when galaxies are host to a lot of young, hot stars that overwhelm and heat the interstellar medium. We looked at the relationship between the escape fraction of ionizing radiation and another measure of the presence of young stars; the ratio between [OIII] and [OII] emission lines. Where previous studies showed a relationship between the two measures, we found that they actually act on different time scales and are not directly related at all. We show that observations might be explained by a combination of galaxy dynamics and orientation effects. Read more [here](https://arxiv.org/abs/2010.00592).
+
 
 * **Nebular Emission Lines**
 
