@@ -7,7 +7,7 @@ use-site-title: true
 
 ## Biography
 
-I am a NASA Hubble Postdoctoral Fellow at the Harvard University and Smithsonian Center for Astronomy in Boston, Massachusetts. In summer 2022 I will be transitioning to an assistant professor position at the University of Illinois at Urbana-Champaign.  
+I am a NASA Hubble Postdoctoral Fellow at the Harvard University and Smithsonian Center for Astronomy in Cambridge, Massachusetts. In summer 2022 I will be transitioning to an assistant professor position at the University of Illinois at Urbana-Champaign.  
 
 I am mostly interested in modeling galaxy and star formation numerically as well as producing mock observations of the early Universe. I am also interested in orbital mechanics modeling for spacecraft missions in our solar system.
 
