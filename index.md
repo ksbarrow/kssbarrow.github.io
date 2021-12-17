@@ -11,7 +11,7 @@ I am a NASA Hubble Postdoctoral Fellow at the Harvard University and Smithsonian
 
 I am mostly interested in modeling galaxy and star formation numerically as well as producing mock observations of the early Universe. I am also interested in orbital mechanics modeling for spacecraft missions in our solar system.
 
-See my [CV](KSSBarrow-Public-CV-August 2021.pdf) and the [research page](research) for more about my academic history and a summary of some of my projects.
+See my [CV](KSSBarrow-Public-CV-December 2021.pdf) and the [research page](research) for more about my academic history and a summary of some of my projects.
 
 I grew up in various places in the US and in Jamaica, moving 13 times before graduating high school. I stayed put in Georgia for college and Atlanta became my adopted home town of 15 years.
 

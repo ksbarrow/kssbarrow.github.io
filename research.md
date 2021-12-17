@@ -4,7 +4,7 @@ title: Research and CV
 use-site-title: true
 ---
 
-See my [CV](KSSBarrow-Public-CV-August 2021.pdf) for a list of publications.
+See my [CV](KSSBarrow-Public-CV-December 2021.pdf) for a list of publications.
 
 
 ## Brief Overview of Completed Research Projects
