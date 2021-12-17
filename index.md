@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Kirk Barrow
-subtitle: NASA Hubble Fellow at Harvard | Smithsonian Center for Astronomy (2021-2022)
+subtitle: NASA Hubble Fellow at Harvard | Smithsonian Center for Astrophysics (2021-2022)
 use-site-title: true
 ---
 
 ## Biography
 
-I am a NASA Hubble Postdoctoral Fellow at the Harvard University and Smithsonian Center for Astronomy in Cambridge, Massachusetts. In summer 2022 I will be transitioning to an assistant professor position at the University of Illinois at Urbana-Champaign.  
+I am a NASA Hubble Postdoctoral Fellow at the Harvard University and Smithsonian Center for Astrophysics in Cambridge, Massachusetts. In summer 2022 I will be transitioning to an assistant professor position at the University of Illinois at Urbana-Champaign.  
 
 I am mostly interested in modeling galaxy and star formation numerically as well as producing mock observations of the early Universe. I am also interested in orbital mechanics modeling for spacecraft missions in our solar system.
 
